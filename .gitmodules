@@ -1,0 +1,3 @@
+[submodule "tgwatch"]
+	path = tgwatch
+	url = https://github.com/WestSmit/tg-watch
