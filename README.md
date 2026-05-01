@@ -16,7 +16,11 @@ https://github.com/WestSmit/ha-apps
 
 ## Apps (Add-ons)
 
-### [TG Watch](tgwatch/)
+###  [TG Watch](https://github.com/WestSmit/tg-watch)
+
+<p align="center">
+  <img src="https://github.com/WestSmit/tg-watch/blob/main/icon.png" width="128" align="center">
+</p>
 
 Monitors selected Telegram channels and fires a Home Assistant webhook or custom event when a message matches your keywords or a regex rule.
 
@@ -27,4 +31,4 @@ Monitors selected Telegram channels and fires a Home Assistant webhook or custom
 - Custom event firing via the Supervisor API
 - Anti-spam / dedup rate limiting
 
-See [tgwatch/README.md](tgwatch/README.md) for full documentation and configuration options.
+See [tgwatch/README.md](https://github.com/WestSmit/tg-watch/blob/main/README.md) for full documentation and configuration options.
